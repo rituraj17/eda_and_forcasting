@@ -1,0 +1,12 @@
+pandas
+numpy
+matplotlib
+seaborn
+prophet
+scikit-learn
+statsmodels
+jupyterlab
+notebook
+scipy
+requests
+openpyxl
